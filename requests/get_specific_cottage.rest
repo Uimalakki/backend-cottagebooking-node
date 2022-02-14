@@ -1,0 +1,2 @@
+GET http://localhost:3001/api/cottages/6206d620881cb11137e0ee55
+Content-Type: application/json

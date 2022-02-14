@@ -2,6 +2,6 @@ POST http://localhost:3001/api/cottages
 Content-Type: application/json
 
 {
-    "name": "Hilla",
-    "price": 125
+    "name": "Sikotauti",
+    "price": 50
 }

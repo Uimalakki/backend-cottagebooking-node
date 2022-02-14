@@ -1,0 +1,7 @@
+PUT http://localhost:3001/api/cottages/620abd7bc3fa672c8cc64784
+Content-Type: application/json
+
+{
+    "name": "Sikotauti",
+    "price": 47
+}

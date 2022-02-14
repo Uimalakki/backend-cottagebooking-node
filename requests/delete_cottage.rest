@@ -1,0 +1,2 @@
+DELETE http://localhost:3001/api/cottages/620a3fbd6de0a2fad12c8bc1
+Content-Type: application/json
