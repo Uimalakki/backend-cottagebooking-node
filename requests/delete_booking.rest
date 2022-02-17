@@ -1,0 +1,2 @@
+DELETE http://localhost:3001/api/bookings/620e12155ced514bc416b061
+Content-Type: application/json

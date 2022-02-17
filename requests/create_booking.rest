@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/bookings
+Content-Type: application/json
+
+{
+    "name": "Helmut Pallit",
+    "price": 47,
+    "date": "17.2.2022",
+    "cottage": "620abd7bc3fa672c8cc64784"
+}
